@@ -1,0 +1,3 @@
+--use UNISIM.Vcomponents.all;
+entity FLIPFLOP is 
+port

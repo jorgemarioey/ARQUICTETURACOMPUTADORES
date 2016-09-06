@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/test_isim_beh.exe" -prj "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/test_beh.prj" "work.test" 

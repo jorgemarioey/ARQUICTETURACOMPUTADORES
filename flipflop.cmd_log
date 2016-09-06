@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/flipflop.xst" -ofn "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/flipflop.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "flipflop.ngc" flipflop.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o flipflop_map.ncd flipflop.ngd flipflop.pcf 

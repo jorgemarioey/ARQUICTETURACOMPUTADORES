@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.4\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/test_isim_beh.exe -prj C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/test_beh.prj work.test 
+ISim P.49d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/flipflop.vhd" into library work
+Parsing VHDL file "C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 121756 KB
+Fuse CPU Usage: 296 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity flipflop [flipflop_default]
+Compiling architecture behavior of entity test
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable C:/Users/Diego/Desktop/Documentos ING sistemas Mario/7 semestre/Arquictetura de computadores/flipflop/test_isim_beh.exe
+Fuse Memory Usage: 131724 KB
+Fuse CPU Usage: 420 ms
